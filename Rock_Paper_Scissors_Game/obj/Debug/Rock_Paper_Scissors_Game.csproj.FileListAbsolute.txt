@@ -1,0 +1,20 @@
+D:\11b2grSG\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\bin\Debug\Rock_Paper_Scissors_Game.exe.config
+D:\11b2grSG\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\bin\Debug\Rock_Paper_Scissors_Game.exe
+D:\11b2grSG\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\bin\Debug\Rock_Paper_Scissors_Game.pdb
+D:\11b2grSG\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.csprojResolveAssemblyReference.cache
+D:\11b2grSG\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.Form1.resources
+D:\11b2grSG\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.Properties.Resources.resources
+D:\11b2grSG\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.csproj.GenerateResource.Cache
+D:\11b2grSG\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.exe
+D:\11b2grSG\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Rock_Paper_Scissors_Game\Кристиян Хр. 12б - Камък, ножица, хартия\Rock_Paper_Scissors_Game\bin\Debug\Rock_Paper_Scissors_Game.exe.config
+C:\Users\KrisPC\OneDrive\Desktop\Rock_Paper_Scissors_Game\Кристиян Хр. 12б - Камък, ножица, хартия\Rock_Paper_Scissors_Game\bin\Debug\Rock_Paper_Scissors_Game.exe
+C:\Users\KrisPC\OneDrive\Desktop\Rock_Paper_Scissors_Game\Кристиян Хр. 12б - Камък, ножица, хартия\Rock_Paper_Scissors_Game\bin\Debug\Rock_Paper_Scissors_Game.pdb
+C:\Users\KrisPC\OneDrive\Desktop\Rock_Paper_Scissors_Game\Кристиян Хр. 12б - Камък, ножица, хартия\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.csproj.AssemblyReference.cache
+C:\Users\KrisPC\OneDrive\Desktop\Rock_Paper_Scissors_Game\Кристиян Хр. 12б - Камък, ножица, хартия\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\KrisPC\OneDrive\Desktop\Rock_Paper_Scissors_Game\Кристиян Хр. 12б - Камък, ножица, хартия\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.Form1.resources
+C:\Users\KrisPC\OneDrive\Desktop\Rock_Paper_Scissors_Game\Кристиян Хр. 12б - Камък, ножица, хартия\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.Properties.Resources.resources
+C:\Users\KrisPC\OneDrive\Desktop\Rock_Paper_Scissors_Game\Кристиян Хр. 12б - Камък, ножица, хартия\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.csproj.GenerateResource.cache
+C:\Users\KrisPC\OneDrive\Desktop\Rock_Paper_Scissors_Game\Кристиян Хр. 12б - Камък, ножица, хартия\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\OneDrive\Desktop\Rock_Paper_Scissors_Game\Кристиян Хр. 12б - Камък, ножица, хартия\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.exe
+C:\Users\KrisPC\OneDrive\Desktop\Rock_Paper_Scissors_Game\Кристиян Хр. 12б - Камък, ножица, хартия\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.pdb
